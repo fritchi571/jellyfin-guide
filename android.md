@@ -12,3 +12,47 @@
 <br>
 
 ![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/lIVsbErGd5.png "")
+
+### 3. Cliquer sur "Manual Login".
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/mauigcHzLl.png "")
+
+### 4. Entrer votre nom d'utilisateur reçu dans le mail.
+### 5. Entrer votre mot de passe (que vous avez précement choisir lors de la création de votre compte).
+### 6. Cliquer sur "Sign In"
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/PSUrr8vaoT.png "")
+
+### 7. Rendez-vous dans les réglages (situé en haut à gauche).
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/ILHCcqmyYI.png "")
+### 8. Cliquer sur "Settings" ou "Réglages".
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/C2fYTgSY3V.png "")
+### 9. Puis aller ensuite dans le menu "Client Settings" ou "Paramètres Client".
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/83Fe1j80mf.png "")
+### 10. Cliquer sur "Video player type"
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/EwegoLu8ND.png "")
+### 11. Choisir "External player"
+### 12. Valider sur OK
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/GGtZXNZFpr.png "")
+### 13. Cliquer sur "External player app"
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/j4CDpl3wL6.png "")
+### 14. Choisir "MPV Player"
+### 15. Valider avec OK
+<br>
+
+![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/9VF7geKMqZ.png "")
+## Voilà la configuration est terminé vous pouvez à présent profiter du service.
