@@ -1,6 +1,6 @@
 # Guide de configuration pour Jellyfin
 
-## Merci de ne pas utiliser la page web du service, la lecture des contenus pourrai ne pas fonctionner.
+## Pour éviter de surcharger le serveur,certaine fonctionnalité ont été restreinte : la lecture de contenue conportant  des sous-titre pourrai ne pas marcher depuis la page web.
 ---
 ### À la place voici différent guide pour configurer l'application Jellyfin sur :
 <br>
