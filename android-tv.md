@@ -1,6 +1,6 @@
 # Guide de configuration pour Android TV
 
-## Pour commencer télécharger l'pplication Jellyfin depuis le Playstore.
+## Pour commencer télécharger l'application Jellyfin depuis le Playstore.
 ---
 ## Lancer l'application pour débuter la configuration.
 
