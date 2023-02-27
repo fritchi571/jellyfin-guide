@@ -7,7 +7,7 @@
 ## [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 ---
 
-### 1. Rentrer l'adrese URL fournis dans le mail.
+### 1. Rentrer l'adresse URL fournis dans le mail.
 ### 2. Cliquer sur "Connect".
 <br>
 
@@ -19,7 +19,7 @@
 ![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/android/mauigcHzLl.png "")
 
 ### 4. Entrer votre nom d'utilisateur reçu dans le mail.
-### 5. Entrer votre mot de passe (que vous avez précement choisir lors de la création de votre compte).
+### 5. Entrer votre mot de passe (que vous avez précédemment choisi lors de la création de votre compte).
 ### 6. Cliquer sur "Sign In"
 <br>
 
@@ -33,7 +33,7 @@
 <br>
 
 ![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/android/C2fYTgSY3V.png "")
-### 9. Puis aller ensuite dans le menu "Client Settings" ou "Paramètres Client".
+### 9. Puis dans le menu "Client Settings" ou "Paramètres Client".
 <br>
 
 ![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/android/83Fe1j80mf.png "")
@@ -55,4 +55,4 @@
 <br>
 
 ![alt text](https://raw.githubusercontent.com/fritchi571/jellyfin-guide/main/assets/android/9VF7geKMqZ.png "")
-## Voilà la configuration est terminé vous pouvez à présent profiter du service.
+## Voilà la configuration est terminée, vous pouvez à présent profiter du service.

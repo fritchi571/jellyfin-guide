@@ -3,7 +3,7 @@
 [Lien direct pour télécharger l'application Windows](https://github.com/jellyfin/jellyfin-media-player/releases/download/v1.8.1/JellyfinMediaPlayer-1.8.1-windows-x64.exe)
 
 ## Il est possible que Windows Defender vous demande une confirmation !
-### Si c'est le cas, suivez simplement les étape ci-dessous.
+### Si c'est le cas, suivez simplement les étapes ci-dessous.
 
 ![alt text](https://u.lot.moe/SI18.png "")
 
@@ -18,7 +18,7 @@
 
 ![alt text](https://u.lot.moe/H4xS.png "")
 
-### 4. Rentre ladrese URL fournis dans le mail.
+### 4. Rentrer l'adresse URL fournis dans le mail.
 ### 5. Cliquer sur "Connect".
 <br>
 
@@ -31,7 +31,7 @@
 ![alt text](https://u.lot.moe/unfx.png "")
 
 ### 7. Entrer votre nom d'utilisateur reçu dans le mail.
-### 8. Entrer votre mot de passe (que vous avez précement choisir lors de la création de votre compte).
+### 8. Entrer votre mot de passe (que vous avez précédemment choisi lors de la création de votre compte).
 ### 9. Cliquer sur "Sign In"
 <br>
 
